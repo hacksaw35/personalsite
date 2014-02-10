@@ -16,6 +16,7 @@ h1 {
   text-indent: .2em;
   text-align: center;
   vertical-align: middle;
+  max-width: 680px;
   margin:0;
   font-weight:400;
 	font-size: 8em; /* 16x1.375=22px */
